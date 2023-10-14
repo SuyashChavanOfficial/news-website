@@ -1,0 +1,45 @@
+
+.logo img{
+    width: auto;
+    height: 120px;
+}
+.top {
+    display: flex;
+    flex-direction: row;
+}
+
+.head {
+    text-align: center;
+}
+
+.lang-box {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 22rem;
+}
+
+.lang {
+    padding-right: 19px;
+}
+
+.head h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+.social {
+    text-align: center;
+    justify-content: center;
+}
+
+.social-logo {
+    margin: 25px auto;
+}
+.social a {
+    margin: 5px 10px;
+}
+
+.btn button {
+    padding: 5px;
+}
+
